@@ -1,0 +1,28 @@
+Billet # 22 : Description : Créer une nouvelle application Firebase pour le projet et initialiser Firebase dans le code.
+
+Billet # 23 :Description : Ajouter le service d’authentification de Firebase et créer un utilisateur dans la console pour les tests. Garder une capture d’écran de l’utilisateur de test pour la montrer au client.
+
+Billet # 25: Description : Permettre à l’utilisateur de se connecter et de se déconnecter. Créer des pages au besoin.
+
+Billet # 26: Description : Ajouter le service Firestore et créer une collection. La collection va contenir des films. Les films appartiennent à un utilisateur. Garder une capture d’écran pour la montrer au client.
+
+Billet # 27 Description : Acquérir les données des films provenant du Firestore et les afficher dans la page.
+
+Billet # 30 Description : Sécuriser l’application en utilisant les règles du Firestore pour restreindre l’accès aux données des utilisateurs. Garder une capture d’écran des règles pour la montrer au client.
+
+Billet # 31 Description : Ajouter le service de stockage Firebase et y charger un fichier image. Garder une capture d’écran du fichier chargé pour la montrer au client.
+
+Billet # 35 Description : Ajouter le service FCM, l’initialiser et envoyer une notification à partir de la console. Garder une capture d’écran de l’envoie de la notification pour la montrer au client.
+
+Billet # 28 Permettre à l’utilisateur d’ajouter des films en cliquant sur le bouton dans l’entête. Créer une nouvelle page au besoin.
+
+Billet # 32 : Dans le formulaire d’ajout de film, permettre à l’utilisateur de joindre une image et la charger dans le stockage Firebase.
+
+Billet # 29 : Description : Afficher seulement les films qui ont été ajoutés par l’utilisateur.
+
+Billet # 34 : Description : Sécuriser l’application en utilisant les règles du stockage de Firebase pour restreindre l’accès aux fichiers des utilisateurs. Garder une capture d’écran des règles pour la montrer au client.
+
+Billet # 24 : Description : Permettre à l’utilisateur de créer un compte dans le code de l’application. Créer une nouvelle page au besoin.
+
+
+

@@ -1,0 +1,23 @@
+{
+  "name": "movie_database",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "firebase": "^11.0.2",
+    "firebase-admin": "^13.0.1",
+    "next": "^14.2.20",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
